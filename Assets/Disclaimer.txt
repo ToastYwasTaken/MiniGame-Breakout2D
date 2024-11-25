@@ -1,0 +1,7 @@
+Scripts are created with help of the tutorial:
+https://www.youtube.com/watch?v=YzOS9OLVIuE&
+
+Press r to reset ball
+Press a/d to move the pedal
+Starting lifes: 3
+Bricks: 49
